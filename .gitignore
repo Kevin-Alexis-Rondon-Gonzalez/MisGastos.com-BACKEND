@@ -1,0 +1,34 @@
+/env
+/variables.env
+/config
+### Angular ###
+## Angular ##
+# salida compilada
+dist /
+tmp /
+aplicación / ** / *. js
+aplicación / ** / *. js.map
+
+# dependencias
+módulos_nodo /
+bower_components /
+
+# IDE y editores
+.idea/
+
+# misceláneo
+.sass-cache /
+connect.lock /
+cobertura/
+libpeerconnection.log /
+npm-debug.log
+testem.log
+mecanografia /
+
+# e2e
+e2e / *. js
+e2e / *. map
+
+# Archivos de sistema
+.DS_Store /
+
