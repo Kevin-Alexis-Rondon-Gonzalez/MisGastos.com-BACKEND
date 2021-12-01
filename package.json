@@ -1,6 +1,10 @@
 {
   "name": "productoapi",
   "version": "1.0.0",
+  "engines": {
+    "node": "15.x",
+    "npm": "7.x"
+},
   "description": "MEAN API",
   "main": "index.js",
   "scripts": {
